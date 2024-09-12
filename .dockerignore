@@ -1,0 +1,6 @@
+nodes_modules
+build
+.git
+.DS_Store
+*.log
+*.tmp
